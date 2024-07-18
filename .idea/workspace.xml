@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exo6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/exo5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exo6.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +33,7 @@
   "keyToString": {
     "Python.exo5.executor": "Run",
     "Python.exo6.executor": "Run",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/julien/Documents/Dev/Formation/exo python/fastapi-react-mini-blog/backend",
