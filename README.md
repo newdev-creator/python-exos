@@ -27,3 +27,7 @@ Action de recherche d'une personne dans la liste.
 
 Petit RPG à l'ancienne.
 Choisisez un personnage et partez à la découverte du labyrinthe sous la montagne de feu.
+
+## exo6
+
+Mise en place d'un CRUD pour gérer des dépenses.
