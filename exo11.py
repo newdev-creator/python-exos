@@ -1,5 +1,9 @@
+shopping_list = []
+
+
 def create_element(elm: str) -> str:
-    # Ajoute un élément à la liste
+    shopping_list.append(elm)
+    return elm
 
 
 def display_menu() -> str:
@@ -18,12 +22,16 @@ def read_integer(prompt: str) -> int:
     # Lecture de l'option choissie.
     return int(input(prompt))
 
+
 def main():
-    shopping_list = []
     while True:
         choice = display_menu()
 
         if choice == "1":
             elm = input("Entrez le nom d'un élément à ajouter à la liste de course : ")
             create_element(elm)
-            print(f"l'élément {elm} a bien été ajouté à la liste.)
+            print(f"l'élément {elm} a bien été ajouté à la liste.")
+
+
+if __name__ == "__main__":
+    main()
