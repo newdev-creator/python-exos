@@ -15,17 +15,6 @@ La Montagne de Feu est un jeu de rôle textuel en Python où vous incarnez un h�
 - Python 3.10 ou supérieur
 - Aucune dépendance externe requise
 
-## Installation
-1. Clonez le dépôt :
-```bash
-git clone https://github.com/votre-username/montagne-de-feu.git
-cd montagne-de-feu
-```
-
-2. Lancez le jeu :
-```bash
-python main.py
-```
 
 ## Comment jouer
 
@@ -64,9 +53,3 @@ montagne-de-feu/
 
 ## Objectif
 Atteignez la sortie du donjon en accumulant suffisamment de points d'exploration (50 points) tout en restant en vie !
-
-## Auteur
-[Votre nom]
-
-## Licence
-Ce projet est sous licence MIT.

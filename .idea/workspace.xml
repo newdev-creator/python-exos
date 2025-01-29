@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="FEAT: move shopping_list variable">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Dev.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python-exos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/game_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/temps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="FEAT: new rpg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,10 +53,11 @@
     "Python.exo5.executor": "Run",
     "Python.exo6.executor": "Run",
     "Python.game.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "new__rpg",
     "last_opened_file_path": "C:/laragon/www/Formation/exo_python/python-exos",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -110,13 +99,30 @@
       <option name="project" value="LOCAL" />
       <updated>1737970117952</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="FEAT: new rpg">
+      <option name="closed" value="true" />
+      <created>1738138498218</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738138498218</updated>
+    </task>
+    <task id="LOCAL-00004" summary="FEAT: new rpg">
+      <option name="closed" value="true" />
+      <created>1738138601515</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738138601515</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FEAT: update readme" />
     <MESSAGE value="FEAT: add 2 exos" />
     <MESSAGE value="FEAT: move shopping_list variable" />
-    <option name="LAST_COMMIT_MESSAGE" value="FEAT: move shopping_list variable" />
+    <MESSAGE value="FEAT: new rpg" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT: new rpg" />
   </component>
 </project>
