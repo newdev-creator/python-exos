@@ -4,15 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="" />
+    <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="FEAT: move shopping_list variable">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python-exos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/game_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/temps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;newdev-creator&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/newdev-creator/python-exos.git&quot;,
+    &quot;accountId&quot;: &quot;06a18594-f0d9-4e92-bd0a-a03e8d135224&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -21,21 +52,32 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2jNMGj1bW2NiwS13p0NuztoyWg0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.exo11.executor": "Run",
     "Python.exo5.executor": "Run",
     "Python.exo6.executor": "Run",
+    "Python.game.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/julien/Documents/Dev/Formation/exo python/mysite",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+    "last_opened_file_path": "C:/laragon/www/Formation/exo_python/python-exos",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\laragon\www\Formation\exo_python\python-exos" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -52,10 +94,29 @@
       <option name="presentableId" value="Default" />
       <updated>1721222992106</updated>
     </task>
+    <task id="LOCAL-00001" summary="FEAT: add 2 exos">
+      <option name="closed" value="true" />
+      <created>1737969843369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737969843369</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FEAT: move shopping_list variable">
+      <option name="closed" value="true" />
+      <created>1737970117952</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737970117952</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FEAT: update readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="FEAT: add 2 exos" />
+    <MESSAGE value="FEAT: move shopping_list variable" />
+    <option name="LAST_COMMIT_MESSAGE" value="FEAT: move shopping_list variable" />
   </component>
 </project>
