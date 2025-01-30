@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="FEAT: new rpg" />
+    <list default="true" id="ce7a0e41-a416-4592-b9e3-4ee916f0ceb6" name="Changes" comment="FEAT: update readme.md">
+      <change afterPath="$PROJECT_DIR$/exo12_rpg_2.0/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-exos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python-exos.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,26 +51,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.exo11.executor": "Run",
-    "Python.exo5.executor": "Run",
-    "Python.exo6.executor": "Run",
-    "Python.game.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "new__rpg",
-    "last_opened_file_path": "C:/laragon/www/Formation/exo_python/python-exos",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.exo5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exo6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/julien/Documents/Dev/Formation/exo python/mysite&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.General&quot;
   }
-}]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\laragon\www\Formation\exo_python\python-exos" />
-    </key>
-  </component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -83,46 +79,10 @@
       <option name="presentableId" value="Default" />
       <updated>1721222992106</updated>
     </task>
-    <task id="LOCAL-00001" summary="FEAT: add 2 exos">
-      <option name="closed" value="true" />
-      <created>1737969843369</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1737969843369</updated>
-    </task>
-    <task id="LOCAL-00002" summary="FEAT: move shopping_list variable">
-      <option name="closed" value="true" />
-      <created>1737970117952</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1737970117952</updated>
-    </task>
-    <task id="LOCAL-00003" summary="FEAT: new rpg">
-      <option name="closed" value="true" />
-      <created>1738138498218</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1738138498218</updated>
-    </task>
-    <task id="LOCAL-00004" summary="FEAT: new rpg">
-      <option name="closed" value="true" />
-      <created>1738138601515</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1738138601515</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FEAT: update readme" />
-    <MESSAGE value="FEAT: add 2 exos" />
-    <MESSAGE value="FEAT: move shopping_list variable" />
-    <MESSAGE value="FEAT: new rpg" />
-    <option name="LAST_COMMIT_MESSAGE" value="FEAT: new rpg" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
